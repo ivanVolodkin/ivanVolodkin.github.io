@@ -17,7 +17,7 @@ Belarusian State University, Faculty of Radio Physics and Computer Technologies,
 
 ## About Me
 I study at the third year of the Belarusian State University at the Faculty of Radio Physics and Computer Technologies.
-I am fond of programming enough time and want to continue to develop and gain new knowledge in the development of modern web applications sphere. I also want to systematize my knowledge and to learn more from people that have already been out there.I have a litlle bit of experience of working with an application in the C# programming language and .NET Framework.
+I am fond of programming enough time and want to make progress in order to gain new knowledge in the development of modern web applications sphere. I also want to systematize my knowledge and to learn more from people that have already been out there. I have a litlle bit of experience of working with an application in the C# programming language and .NET Framework.
 
 ***
 
@@ -36,6 +36,7 @@ I am fond of programming enough time and want to continue to develop and gain ne
 
 
 ## Hobbies
+I'm keen on sports activity such as football and tennis. I used to play accordion for 4 years.   
 
 ***
 
