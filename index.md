@@ -23,12 +23,12 @@ Belarusian State University, Faculty of Radio Physics and Computer Technologies,
 
 ## Personal qualities
 
--Responsibility<br>
--Punctuality<br>
--Communicable<br>
--Reliability<br>
--<br>
--hjgkhgh<br>
+- Responsibility<br>
+- Punctuality<br>
+- Communicable<br>
+- Reliability<br>
+- Stress resistance<br>
+
 
 ***
 
