@@ -1,5 +1,5 @@
-
-## **Personal Information**
+##**PORTFOLIO**
+## Personal Information
 **Name**                   Ivan Volodkin<br>
 **Marital status**                        Single<br>
 **Date of Birth**                        26th May 1999<br>
@@ -8,23 +8,23 @@
 
 ***
 
-## **Education**
+## Education
 Belarusian State University, Faculty of Radio Physics and Computer Technologies, 3rd year.
 
 
 
 ***
 
-## **About Me**
+## About Me
 
 ***
 
 
 
-## **Personal qualities**
+## Personal qualities
 y
 
-## **Hobbies**
+## Hobbies
 
 
 
