@@ -23,8 +23,12 @@ Belarusian State University, Faculty of Radio Physics and Computer Technologies,
 
 ## Personal qualities
 
-y
-
+-jgkjghhjkgg
+-ghjghkgh
+-ghjgkhgh
+-hgkhghkg
+-hkghjkgjg
+-hjgkhgh
 
 ***
 
