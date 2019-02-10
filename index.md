@@ -22,15 +22,9 @@ Belarusian State University, Faculty of Radio Physics and Computer Technologies,
 
 
 ## **Personal qualities**
-
-- Assiduity
-- Persistence
-- Directness
-- Punctuality
-- Sociability
-- High adaptability
+y
 
 ## **Hobbies**
 
-Sport, playing guitar, riding motorcycle, learning English, nature hiking, watching popular science lectures.
+
 
