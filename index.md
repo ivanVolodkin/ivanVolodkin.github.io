@@ -9,7 +9,7 @@
 ***
 
 ## Education
-Belarusian State University, Faculty of Radio Physics and Computer Technologies, 3rd year.
+Belarusian State University, Faculty of Radio Physics and Computer Technologies, the 3rd year.
 
 
 
@@ -23,12 +23,12 @@ Belarusian State University, Faculty of Radio Physics and Computer Technologies,
 
 ## Personal qualities
 
--jgkjghhjkgg
--ghjghkgh
--ghjgkhgh
--hgkhghkg
--hkghjkgjg
--hjgkhgh
+-Responsibility<br>
+-Punctuality<br>
+-Communicable<br>
+-Reliability<br>
+-<br>
+-hjgkhgh<br>
 
 ***
 
