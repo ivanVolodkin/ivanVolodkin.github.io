@@ -36,7 +36,7 @@ I am fond of programming enough time and want to make progress in order to gain 
 
 
 ## Hobbies
-I'm keen on sports activity such as football and tennis. I used to play accordion for 4 years.   
+I'm keen on sports activity such as football and tennis.   
 
 ***
 
