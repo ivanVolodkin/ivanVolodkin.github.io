@@ -41,7 +41,7 @@ I'm keen on sports activity such as football and tennis.
 ***
 
 ## Links
-[GitHub](https://github.com/ivanVolodkin)
+[GitHub](https://github.com/ivanVolodkin)<br>
 [CodeWars](https://www.codewars.com/users/ivanVolodkin/)
 
 
