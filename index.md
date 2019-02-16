@@ -48,6 +48,7 @@ I'm keen on sports activity such as football and tennis.
 [PadawansTask4 86%](https://github.com/ivanVolodkin/PadawansTask4)<br>
 [PadawansTask5 100%](https://github.com/ivanVolodkin/PadawansTask5)<br>
 [PadawansTask13 100%](https://github.com/padawanstask/PadawansTask13)<br>
+[PadawansTask6 94%](https://github.com/ivanVolodkin/PadawansTask6)<br>
 
 [CodeWars](https://www.codewars.com/users/ivanVolodkin/)
 
