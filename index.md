@@ -41,7 +41,14 @@ I'm keen on sports activity such as football and tennis.
 ***
 
 ## Links
-[GitHub](https://github.com/ivanVolodkin)<br>
+[FancyCalc 100%](https://github.com/ivanVolodkin/FancyCalc)<br>
+[PadawansTask1 100%](https://github.com/ivanVolodkin/PadawansTask1)<br>
+[PadawansTask2 100%](https://github.com/ivanVolodkin/PadawansTask2)<br>
+[PadawansTask3 100%](https://github.com/ivanVolodkin/PadawansTask3)<br>
+[PadawansTask4 86%](https://github.com/ivanVolodkin/PadawansTask4)<br>
+[PadawansTask5 100%](https://github.com/ivanVolodkin/PadawansTask5)<br>
+[PadawansTask13 100%](https://github.com/padawanstask/PadawansTask13)<br>
+
 [CodeWars](https://www.codewars.com/users/ivanVolodkin/)
 
 
